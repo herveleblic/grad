@@ -9,15 +9,20 @@
     <section id="recursive">
         <h2>Recursif gif</h2>
         <br>
+        <hr class="hr-h">
+        <h2>testA</h2>
         <img src="images/loop1/images/loop1.gif" loop=infinite width="370" height="491" alt="">
         <br>
         <br>
+        <hr class="hr-h">
         <img src="images/loop2/loop2.gif" loop=infinite width="370" height="491" alt="">
         <br>
         <br>
+        <hr class="hr-h">
         <img src="images/loop3.gif" loop=infinite width="370" height="491" alt="">
         <br>
         <br>
+        <hr class="hr-h">
         <img src="images/abookabout/images/abookabout.gif" loop=infinite width="370" height="491" alt="">
         <br>
         <br>
